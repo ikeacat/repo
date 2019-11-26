@@ -1,0 +1,86 @@
+As - App Store
+Aw - Apple Watch
+Ca - Calculator
+Cm - Camera
+Cl - Classroom
+Cp - Compass
+Cn - Contacts
+Fa - Facetime
+Fi - Files
+He - Health
+Ho - Home
+Bo - iBooks
+It - iTunes Store
+Ma - Mail
+Mp - Maps
+Me - Measure
+Ms - Messages
+Mu - Music
+No - Notes
+Ph - Phone
+Pb - Photo Booth
+Pl - Playgrounds
+Po - Podcasts
+Rm - Reminders
+Sa - Safari
+Se - Settings
+St - Stocks
+Tv - Television (TV)
+Vd - Videos
+Vm - Voice Memos
+Wa - Wallet
+We - Weather
+Yt - YouTube
+Sp - Spotify
+Rd - Reddit
+Tw - Twitter
+Fb - Facebook
+Sm - Steam
+Twc - The Weather Channel
+Pp - Paypal
+Ze - Zebra
+Cy - Cydia
+Fz - Filza
+Re - Reprovision
+Nt - NewTerm
+Ig - Instagram
+Tt - TikTok
+Ds - Discord
+Th - Timehop
+Sn - Snapchat
+Ap - Apollo
+Nf - Netflix
+23 - 23andMe
+Fbt - FitBit
+Sz - Shazam
+Im - IMDb
+Lp - LastPass
+Sc - Soundcloud
+Pho - Photos
+Gm - Gmail
+Um - Unroll.Me
+Uc - Unc0ver
+Go - Google
+Gh - Google Home
+Tru - TruTV
+Az - Amazon
+1(4) - 1.1.1.1
+Mg - Mega
+Ro - Roku
+Eb - Ebay
+Ga - Google Authenticator
+Gp - Google Maps
+Ps - PowerSchool Mobile
+Fip - Find iPhone
+Gcl - Google Classroom
+Gph - Google Photos
+Aa - Amazon Alexa
+Spt - Speedtest
+Pg - Plague Inc.
+Mm - Mini Metro
+Bl - Bitlife
+Gd - Geometry Dash
+Eg - Evergrow
+Sl - Sileo
+El - Electra
+DPl - Disney Plus
