@@ -1,2 +1,2 @@
 # repo
-My Cydia Repo
+My cydia repo for crap I make.
